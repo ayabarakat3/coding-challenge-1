@@ -14,7 +14,7 @@ console.log(isActive, typeof(isActive));
 let products = ["Mascara", "Lipstick", "Blush"];
 const prouctDetails = {
     price: 34.00,
-    name: products: 
+    name: products, 
     inStock: 300,
 
 }
