@@ -12,7 +12,7 @@ console.log(isActive, typeof(isActive));
 
 // Task 2: Compound Data Types
 let products = ["Mascara", "Lipstick", "Blush"];
-const prouctDetails = {
+const productDetails = {
     price: 34.00,
     name: products, 
     inStock: 300,
