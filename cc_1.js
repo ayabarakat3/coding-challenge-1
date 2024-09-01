@@ -19,3 +19,17 @@ const productDetails = {
 
 }
 console.log(products, productDetails);
+
+
+
+// Task 3: Assignment Operators
+
+let accountBalance = 7350;
+
+accountBalance += 500;
+accountBalance -= 175;
+accountBalance *= 4;
+accountBalance /= 3;
+accountBalance %= 1;
+console.log(accountBalance);
+
