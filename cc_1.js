@@ -11,6 +11,7 @@ console.log(isActive, typeof(isActive));
 
 
 // Task 2: Compound Data Types
+
 let products = ["Mascara", "Lipstick", "Blush"];
 const productDetails = {
     price: 34.00,
@@ -34,6 +35,7 @@ accountBalance %= 1;
 console.log(accountBalance);
 
 // Task 4: Comparison Operators
+
 let employeeScore1 = 5679
 let employeeScore2 = 7054
 console.log(employeeScore1 < employeeScore2);
@@ -42,3 +44,11 @@ console.log(employeeScore1 <= employeeScore2);
 console.log(employeeScore1 <= employeeScore2);
 console.log(employeeScore1 === employeeScore2);
 console.log(employeeScore1 !== employeeScore2);
+
+// Task 5: Logical Operators
+
+let hasKeyCard = false;
+let hasPermission = true;
+console.log (hasKeyCard && hasPermission);
+console.log (hasKeyCard || hasPermission);
+console.log (!hasPermission);
